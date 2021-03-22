@@ -72,12 +72,24 @@ p {
     position: relative;
 }
 
+.work-hero-container {
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
 .value-prop {
     padding: 0 10% 10% 10%
 }
 
 .work {
     padding: 10% 0;
+}
+
+.work.casestudy {
+    padding-top: 0;
 }
 
 .content-container {
