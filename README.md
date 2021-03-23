@@ -91,7 +91,9 @@ The project was deployed to GitHub Pages using the following steps...
 
 -   [Bootstrap4.6](https://getbootstrap.com/docs/4.6.0/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
--   (https://www.colinking.com/press) : I used the image hover on this page as a reference for me image hover on the homepage.
+-   (https://www.colinking.com/press) : I used the image hover on this page as a reference for my image hover on the homepage.
+
+- I referred the my Code Institute lessons also.
 
 ### Content
 
