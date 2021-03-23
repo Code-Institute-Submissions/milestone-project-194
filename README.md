@@ -1,8 +1,6 @@
 <h1 align="center">Dave Quigley - MS1 - Website</h1>
 
-[View the live project here.](https://codeinstitute.net)
-
-<h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
+[View the live project here.](https://davequig.github.io/milestone-project-1)
 
 ## User Experience (UX)
 
@@ -24,11 +22,11 @@
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - [View](https://github.com/)
+    -   Home Page Wireframe - [View](https://davequig.github.io/milestone-project-1/assets/images/wireframes/index-wireframe.jpg)
 
-    -   Mobile Wireframe - [View](https://github.com/)
+    -   Mobile Wireframe - [View](https://davequig.github.io/milestone-project-1/assets/images/wireframes/work-wireframe.jpg)
 
-    -   Contact Us Page Wireframe - [View](https://github.com/)
+    -   Contact Us Page Wireframe - [View](https://davequig.github.io/milestone-project-1/assets/images/wireframes/contact-wireframe.jpg)
 
 ## Features
 
