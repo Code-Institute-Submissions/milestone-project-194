@@ -23,7 +23,12 @@ p {
 .navbar-brand {
     font-family: 'Spectral', serif;
     font-weight: 700!important;
-    font-size: 2rem!important;
+    font-size: 1rem!important;
+}
+
+.navbar-brand:hover {
+    background-color: #fff!important;
+    color: #12171b!important;
 }
 
 .navbar a {
@@ -34,13 +39,13 @@ p {
 }
 
 .navbar a:active {
-    background-color: black;
-    color: white;
+    background-color: #12171b;
+    color: #fff;
 }
 
 .navbar a:hover {
-    background-color: black;
-    color: white;
+    background-color: #12171b;
+    color: #fff;
     transition: all .5s linear;
 }
 
@@ -124,10 +129,9 @@ p {
 .jumbotron {
     background-color: transparent;
     padding-top: 0;
-    width: 75%;
+    padding-bottom: 15%;
     color: #12171b;
     font-weight: 700;
-    margin-bottom: 20px;
 }
 
 .my-4 {
@@ -237,6 +241,10 @@ p {
     box-shadow: 16px 16px 25px rgb(0 0 0 / 20%);
 }
 
+.work-example {
+    padding-bottom: 30px;
+}
+
 /*--------------------------------------------------- Footer  */
 
 footer {
@@ -246,6 +254,7 @@ footer {
 
 .footer-nav {
     margin: 0 30%;
+    padding-bottom: 20px;
 }
 
 .footer-nav a {
@@ -255,19 +264,20 @@ footer {
 
 .footer-nav a:active {
     background-color: #fff;
-    color: #000;
+    color: #12171b;
     text-decoration: none;
 }
 
 .footer-nav a:hover {
     background-color: #fff;
-    color: #000;
+    color: #12171b;
     transition: all .5s linear;
     text-decoration: none;
 }
 
 .footer-social {
     margin: 0 30%;
+    padding-bottom: 20px;
 }
 
 .footer-social a {
@@ -278,19 +288,20 @@ footer {
 
 .footer-social a:active {
     background-color: #fff;
-    color: #000;
+    color: #12171b;
     text-decoration: none;
 }
 
 .footer-social a:hover {
     background-color: #fff;
-    color: #000;
+    color: #12171b;
     transition: all .5s linear;
     text-decoration: none;
 }
 
 .footer-contact {
     margin: 0 30%;
+    padding-bottom: 20px;
 }
 
 .footer-contact a {
@@ -301,17 +312,21 @@ footer {
 
 .footer-contact a:active {
     background-color: #fff;
-    color: #000;
+    color: #12171b;
     text-decoration: none;
 }
 
 .footer-contact a:hover {
     background-color: #fff;
-    color: #000;
+    color: #12171b;
     transition: all .5s linear;
     text-decoration: none;
 }
 
 .footer-link {
     display: block;
+}
+
+.work-link a {
+    color: #12171b;
 }
